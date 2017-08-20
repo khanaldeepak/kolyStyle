@@ -1,0 +1,28 @@
+Brand : ADDIDAS
+id=29891 (ths is category id)
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand/adidas?id=29891
+
+Brand: ADDIDAS , CALVIN KLEIN
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand/adidas%7CCalvin%20Klein?id=29891
+
+Brand: ADDIDAS , CALVIN KLEIN
+Apparel Type: COATS
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand,Department_type/adidas%7CCalvin%20Klein,Coats?id=29891
+
+Brand: CALVIN KLEIN
+Apparel Type: COATS , JACKETS
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand,Department_type/Calvin%20Klein,Coats%7CJackets?id=29891
+
+Brand: CALVIN KLEIN
+Apparel Type: COATS , JACKETS
+Color: BLUE
+
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand,Color_normal,Department_type/Calvin%20Klein,Blue,Coats%7CJackets?id=29891
+
+Brand: CALVIN KLEIN
+Apparel Type: COATS , JACKETS
+Color: BLUE
+Price: 50-100
+https://www.macys.com/shop/womens-clothing/womens-activewear/Brand,Color_normal,Department_type,Price/Calvin%20Klein,Blue,Coats%7CJackets,50.0%257C100.0?id=29891
+
+where brand = addidas OR calvin klein AND Type = Coats OR Jackets AND Color = Blue AND Price BETWEEN 50-100;
